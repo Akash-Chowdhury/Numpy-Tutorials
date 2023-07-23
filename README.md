@@ -41,6 +41,9 @@
 - `ar.ndim` it gives the dimention of the array.
 - `ar.argmin()` it gives the min element index.
 - `ar.argmax()` it gives the max element index.
+- `ar.sum(axis=0)` find the sum column wise of a matrix.
+- `ar.sum(axis=1)` find the sum row wise of a matrix.
+- `ar.T` transpose the matrix.
 
 Thankyou❤️
 If you find the repo.. is helpful than drop a star⭐
